@@ -6,7 +6,7 @@ subtitle: Department of Linguistics, UF <br> <a href='#'>delin.deng@gmail.com</a
 
 profile:
   align: right
-  image: Delin.jpg
+  image: delin.jpg
   image_circular: false # crops the image to make it circular
   address:
 
