@@ -1,14 +1,12 @@
 ---
 layout: page
-title: sound variation
-description: phonetic variation of sounds in accented Mandarin
-img: assets/img/13.jpg
-importance: 1
+title: Language and Society
+#description:
+img: assets/img/6.jpg
+importance: 3
 ---
 
-I am particularly interested in the sound variation of the lateral and retroflex fricative sounds in accented Mandarin, as native speakers of southern Chinese dialects may not produce these two sounds accurately in Mandarin. My research questions are as follows: (1) How would native dialectal background affect the phonetic variations of the two sounds in accented Mandarin? (2) What phonological factors may influence the phonetic realization of the sounds in accented Mandarin? 
-
-To determine the acoustic features of the two sounds among speakers of accented Mandarin, a set of acoustic measurements were extracted from the production of Mandarin words beginning with the two sounds and then submitted to random forest classification. The accuracy of classification can be used to measure the relative similarity of these two sounds between different pairs of dialectal regions. The computation of conditional feature importance can shed light on the relative impact of acoustic measurements and phonological factors in predicting the two sounds in accented Mandarin. 
+Based on data collected with two fields of Chinese communities in Paris and New York, I also explored the question of the linguistic difference between men and women both quantitatively and qualitatively. I investigated the difference between the roles of women and men in Mainland China and the Chinese diaspora in relation to the traditional. I showed that although women are often believed to be innovators of new linguistic uses and lead linguistic change, they are much more conservative than men in the Chinese diaspora in their language use. Women are more attached to tradition, while men adapt more quickly to the culture of the host country. I concluded that the linguistic difference (use of kinship terms and other socio-pragmatic markers) between women and men observed in mainland China and the Chinese diaspora is due to the contrast between the communist system adopted by mainland China and the pre-communist system practiced by the Chinese diaspora. The difference between the role of women and men is the consequence of the divergence in the value of women in these two systems.
 
 <div class="publications">
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-06
+date: 2023-03-06
 inline: true
 ---
-Two preceeding drafts has been submitted to ICPhS 2023.
+One paper has been accepted for publication in <i>French Review</i>.
 

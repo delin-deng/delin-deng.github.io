@@ -1,14 +1,12 @@
 ---
 layout: page
-title: speech emotion recognition
-description: how machines recognize emotions in speech
-img: assets/img/6.jpg
-importance: 3
+title: French Language Variation and Change
+#description: 
+img: assets/img/14.jpg
+importance: 2
 ---
 
-Speech emotion recognition by machines is a difficult task due to the subjective nature of emotions, as opposed to the effortless perception of emotions in the speech by humans. How does the classification of emotional utterances by human raters differ from machine learning models? Which emotion types show a strong correlation between human raters’ performance and modeling results? 
-
-To answer these two questions, in addition to gathering human ratings of emotional utterances, this project uses the openSMILE Python package to extract a large set of features. A subset of selected features is then used to train support vector machines (SVM) and convolutional neural network (CNN) classifiers to predict the emotion labels of utterances. The work is still ongoing and preliminary findings will be reported in the ASA meeting in Chicago in May.
+The grammaticalization of discourse markers is another research topic that I started to explore over the past years. Compared to variables at other levels of linguistic structure, such as syntactic variables, discourse markers usage is an area of the language where one can observe variation and change over a relatively short period of time. In sociolinguistics, the study of discourse markers is situated within the domain of discourse-pragmatic variation and change, a burgeoning area of research (D’Arcy, 2017; Pichler, 2010, 2013, & 2016). Broadly defined, discourse-pragmatic features include discourse markers or pragmatic particles whose primary functions are interpersonal and textual. By examining corpus data, one can get more insights into how a particle becomes grammaticalized over time and how speakers’ cultural and linguistic backgrounds participate in their process of acquisition.
 
 <div class="publications">
 

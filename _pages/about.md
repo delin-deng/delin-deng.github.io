@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Linguistics, UF <br> <a href='#'>fenqiw@gmail.com</a>. 
+subtitle: Department of Linguistics, UF <br> <a href='#'>delin.deng@gmail.com</a>. 
 
 profile:
   align: right
-  image: fenqi_selfi.jpg
+  image: Delin.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a PhD candidate in [linguistics](https://lin.ufl.edu/) at the University of Florida, where I'm advised by Prof. [Ratree Wayland](https://slam.lin.ufl.edu/people/ratree-wayland/). I am on schedule to graduate in August 2023 and currently looking for a post-doctoral researcher position. My general research interests are in speech production, speech perception, sound variation, emotional speech recognition, and bilingualism. In my studies, I have used a variety of research methods, including behavioral, neuroimaging, and computational methods. 
+I am currently a PhD candidate in [linguistics](https://lin.ufl.edu/) at the University of Florida, where I work with Professor [Hélène Blondeau](https://languages.ufl.edu/people/faculty-alpha/helene-blondeau/). My specializations include French sociolinguistics, French as a second language, French language variation and change, discourse analysis, and corpus linguistics.
 
-I’m currently investigating the [vocal emotions](/projects/1_project/) in American English and Mandarin Chinese, with the goal of unraveling the complexities of the expression and perception of emotions in speech. In addition, I'm interested in [sound variation](/projects/3_project/) in accented Mandarin and am trying to use [deep/machine learning models](/projects/2_project/) to analyze the phonetic variation of fricatives in accented Mandarin.
+I am currently exploring the acquisition of socio-pragmatic competence by L2 speakers of English and French in global context. By adopting a variationist’s approach, I mainly focus on how speakers’ cultural and linguistic backgrounds influence their language use. Meanwhile, I am also interested in grammaticalization of discourse markers in different varieties of French in Francophone countries.
 
-Trained as a linguist, I combine linguistic theories with experimental and computational methods to study speech and the brain. My works have been published in various [journals and conferences](/publications/).
+As a sociolinguist, my research makes use of both observational data and sociolinguistic interviews. I combine both qualitative and quantitative methods in my analysis. My work has been published in a number of peer reviewed journals and international conferences.

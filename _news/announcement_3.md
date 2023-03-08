@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-01-27
+date: 2023-03-08
 inline: true
 ---
-A new co-authored paper has been accepted for publication in JASA.
+I will present one poster at AAAL in Portland next week.

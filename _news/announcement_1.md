@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-05
+date: 2023-01-15
 inline: true
 ---
 
-I will present two posters at ASA in Nashville this week.
+One paper has been accepted for publication in <i>Languages</i>.

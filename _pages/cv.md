@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-#cv_pdf: CV_Fenqi_Wang_0203.pdf
+#cv_pdf: CV_Delin_Deng.pdf
 ---
 
-{% pdf "/assets/pdf/CV_Fenqi_Wang_0208.pdf" % width=1000px height=1000px %}
+{% pdf "/assets/pdf/CV_Delin_Deng.pdf" % width=1000px height=1000px %}

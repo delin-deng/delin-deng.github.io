@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Fenqi Wang # the website title (if blank, full name will be used instead)
-first_name: Fenqi
+title: Delin Deng # the website title (if blank, full name will be used instead)
+first_name: Delin
 middle_name: 
-last_name: Wang
-email: fenqiw@gmail.com
+last_name: Deng
+email: delin.deng@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -18,11 +18,11 @@ footer_text: >
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://fenqiling.github.io  # the base hostname & protocol for your site
+url: https://delin-deng.github.io  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-repository: fenqiling/fenqiling.github.io
+repository: delin-deng/delin-deng.github.io
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -67,20 +67,20 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: fenqiling # your GitHub user name
+github_username: delin-deng # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: l7HUaJQAAAAJ # your Google Scholar ID
+scholar_userid: Str5iPQAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0003-2722-0161 # your ORCID ID
+orcid_id: 0000-0001-5389-1706 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Fenqi-Wang # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -98,7 +98,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Please feel free to reach me through email.
+  Please feel free to contact me through email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -250,8 +250,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Wang]
-  first_name: [Fenqi]
+  last_name: [Deng]
+  first_name: [Delin]
 
   style: apa
   locale: en
