@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-03-08
+date: 2023-04-28
 inline: true
 ---
-I will present one poster at AAAL in Portland next week.
+One paper has been accepted for publication in <i>Linguistics Vanguard</i>.
