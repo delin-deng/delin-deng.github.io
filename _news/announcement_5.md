@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-06-02
+date: 2024-02-28
 inline: true
 ---
-One paper has been published in the <i>Journal of French Language Studies</i>.
+One paper has been published in <i>Languages</i>.

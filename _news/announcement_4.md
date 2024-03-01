@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-28
+date: 2023-06-02
 inline: true
 ---
-One paper has been accepted for publication in <i>Journal of French Language Studies</i>.
+One paper has been published in the <i>Journal of French Language Studies</i>.
