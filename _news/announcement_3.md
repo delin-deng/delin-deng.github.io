@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-25
+date: 2023-11-07
 inline: true
 ---
-One paper has been accepted for publication in <i>Linguistics Vanguard</i>.
+One paper has been published in <i>Linguistics Vanguard</i>.
