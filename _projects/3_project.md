@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Language and Society
-#description:
-img: assets/img/6.jpg
+title: French Language Variation and Change
+#description: 
+img: assets/img/14.jpg
 importance: 3
 ---
 
-Based on data collected with two fields of Chinese communities in Paris and New York, I also explored the question of the linguistic difference between men and women both quantitatively and qualitatively. I investigated the difference between the roles of women and men in Mainland China and the Chinese diaspora in relation to the traditional. I showed that although women are often believed to be innovators of new linguistic uses and lead linguistic change, they are much more conservative than men in the Chinese diaspora in their language use. Women are more attached to tradition, while men adapt more quickly to the culture of the host country. I concluded that the linguistic difference (use of kinship terms and other socio-pragmatic markers) between women and men observed in mainland China and the Chinese diaspora is due to the contrast between the communist system adopted by mainland China and the pre-communist system practiced by the Chinese diaspora. The difference between the role of women and men is the consequence of the divergence in the value of women in these two systems.
+The grammaticalization of discourse markers is another research topic that I started to explore over the past years. Compared to variables at other levels of linguistic structure, such as syntactic variables, discourse markers usage is an area of the language where one can observe variation and change over a relatively short period of time. In sociolinguistics, the study of discourse markers is situated within the domain of discourse-pragmatic variation and change, a burgeoning area of research (D’Arcy, 2017; Pichler, 2010, 2013, & 2016). Broadly defined, discourse-pragmatic features include discourse markers or pragmatic particles whose primary functions are interpersonal and textual. By examining corpus data, one can get more insights into how a particle becomes grammaticalized over time and how speakers’ cultural and linguistic backgrounds participate in their process of acquisition.
+
 
 <div class="publications">
 

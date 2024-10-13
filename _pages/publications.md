@@ -42,11 +42,4 @@ nav_order: 2
 
 </div>
 
-<div class="publications">
-
-<h4>Conference Abstracts (selected)</h4>
-
-{% bibliography -f papers --group_by year --group_order descending -q @*[section=Conference Abstracts]* %}
-
-</div>
 
