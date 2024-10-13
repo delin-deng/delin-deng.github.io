@@ -6,7 +6,7 @@ subtitle: Psychology and Human Development, VU <br> <a href='#'>delin.deng@gmail
 
 profile:
   align: right
-  image: delin_2.jpg
+  image: delin_3.jpg
   image_circular: false # crops the image to make it circular
   address:
 
