@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Psychology and Human Development, VU <br> <a href='#'>delin.deng@gmail.com</a>. 
+subtitle: Psychology and Human Development, VU <br> <a href='#'>delin.deng@gmail.com</a> 
 
 profile:
   align: right
